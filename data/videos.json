@@ -1,0 +1,21 @@
+[
+  { "id": 1, "title": "How to host websites with GitHub Pages" },
+  { "id": 2, "title": "Create social media platforms without coding" },
+  { "id": 3, "title": "Convert websites into apps for mobile devices" },
+  { "id": 4, "title": "Use Jsdelivr CDN to host files from GitHub" },
+  { "id": 5, "title": "Add images to GitHub README.md" },
+  { "id": 6, "title": "Set up Firebase API Keys" },
+  { "id": 7, "title": "Build NPM packages using Termux on your mobile device" },
+  { "id": 8, "title": "Automate deployments with GitHub Actions and integrate with Heroku" },
+  { "id": 9, "title": "How to use Windows 7 in Android" },
+  { "id": 10, "title": "How to create a text file using Nano in Termux" },
+  { "id": 11, "title": "How to code in nano using Termux" },
+  { "id": 12, "title": "How to compile C++ file into G++ in Termux" },
+  { "id": 13, "title": "How to get YouTube Data API" },
+  { "id": 14, "title": "Flask Tutorial #1: Routes" },
+  { "id": 15, "title": "How to make a Discord bot with 24/7 hosting and moderation" },
+  { "id": 16, "title": "How to make blogs using Blogger" },
+  { "id": 17, "title": "Flask Tutorial #2: Adding HTML to Flask App" },
+  { "id": 18, "title": "How to use Termux" },
+  { "id": 19, "title": "Termux Cool Commands 😈" }
+]
