@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Flask Tutorial",
+    "description": "A series for learning Flask",
+    "videos": [14, 17]
+  },
+  {
+    "id": 2,
+    "title": "Termux Tutorials",
+    "description": "Tutorials for Termux",
+    "videos": [7, 11, 10, 18, 19]
+  }
+]
